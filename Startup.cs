@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.VisualStudio.Web.CodeGeneration.Design;
 using Microsoft.EntityFrameworkCore.SqlServer;
+using MvcMovie.Data;
 
 namespace MvcMovie
 {

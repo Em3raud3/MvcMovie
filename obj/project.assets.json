@@ -7439,11 +7439,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/code/cs305_Software_Engineering/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "/mnt/c/code/MvcMovie/MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/mnt/c/code/cs305_Software_Engineering/MvcMovie/MvcMovie.csproj",
+      "projectPath": "/mnt/c/code/MvcMovie/MvcMovie.csproj",
       "packagesPath": "/home/emeraude/.nuget/packages/",
-      "outputPath": "/mnt/c/code/cs305_Software_Engineering/MvcMovie/obj/",
+      "outputPath": "/mnt/c/code/MvcMovie/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/emeraude/.nuget/NuGet/NuGet.Config"
